@@ -7,6 +7,8 @@ public class ForLoop {
 
 
         }
-
+for (String cat: catBoard){
+    System.out.println(cat);
     }
+}
 }
